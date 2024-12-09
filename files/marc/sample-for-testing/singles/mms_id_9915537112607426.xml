@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><searchRetrieveResponse xmlns="http://www.loc.gov/zing/srw/">
+  <version>1.2</version>
+  <numberOfRecords>1</numberOfRecords>
+  <records>
+    <record>
+      <recordSchema>marcxml</recordSchema>
+      <recordPacking>xml</recordPacking>
+      <recordData>
+        <record xmlns="http://www.loc.gov/MARC21/slim">
+          <leader>01991cas a2200541Ia 4500</leader>
+          <controlfield tag="001">9915537112607426</controlfield>
+          <controlfield tag="005">20240620102238.0</controlfield>
+          <controlfield tag="008">001003d194019uudcumr p  s   f0   a0eng d</controlfield>
+          <datafield ind1=" " ind2=" " tag="010">
+            <subfield code="a">46045037</subfield>
+          </datafield>
+          <datafield ind1="7" ind2=" " tag="016">
+            <subfield code="a">CAT11084093</subfield>
+            <subfield code="2">DNAL</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="019">
+            <subfield code="a">40315796</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">852219</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(OCoLC)19492872</subfield>
+            <subfield code="z">(OCoLC)40315796</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="a">(DNAL)852219-naldb-Voyager</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="035">
+            <subfield code="z">(OCoLC)40315796</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="040">
+            <subfield code="a">CFX</subfield>
+            <subfield code="b">eng</subfield>
+            <subfield code="c">CFX</subfield>
+            <subfield code="d">OCL</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">UPM</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">OHI</subfield>
+            <subfield code="d">OCLCF</subfield>
+            <subfield code="d">OCLCO</subfield>
+            <subfield code="d">PAU</subfield>
+            <subfield code="d">OCLCQ</subfield>
+            <subfield code="d">AGL</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="043">
+            <subfield code="a">n-us---</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="049">
+            <subfield code="a">RQIC</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="0" tag="050">
+            <subfield code="a">HG6047.C63</subfield>
+            <subfield code="b">T7</subfield>
+          </datafield>
+          <datafield ind1="1" ind2="0" tag="050">
+            <subfield code="a">HD9074</subfield>
+            <subfield code="b">.A37</subfield>
+          </datafield>
+          <datafield ind1="0" ind2=" " tag="070">
+            <subfield code="a">1.945</subfield>
+            <subfield code="b">T67</subfield>
+          </datafield>
+          <datafield ind1="0" ind2=" " tag="086">
+            <subfield code="a">A 85.7:</subfield>
+          </datafield>
+          <datafield ind1="0" ind2="0" tag="245">
+            <subfield code="a">Trade in cotton futures.</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="260">
+            <subfield code="a">Washington, D.C. :</subfield>
+            <subfield code="b">U.S. Dept. of Agriculture,</subfield>
+            <subfield code="c">1940-</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="300">
+            <subfield code="a">volumes ;</subfield>
+            <subfield code="c">27 cm</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="310">
+            <subfield code="a">Monthly</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="336">
+            <subfield code="a">text</subfield>
+            <subfield code="b">txt</subfield>
+            <subfield code="2">rdacontent</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="337">
+            <subfield code="a">unmediated</subfield>
+            <subfield code="b">n</subfield>
+            <subfield code="2">rdamedia</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="338">
+            <subfield code="a">volume</subfield>
+            <subfield code="b">nc</subfield>
+            <subfield code="2">rdacarrier</subfield>
+          </datafield>
+          <datafield ind1="0" ind2=" " tag="362">
+            <subfield code="a">Vol. 1, no. 1 (Mar. 1940)-</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="550">
+            <subfield code="a">Issued 1940-&lt;June 1942&gt; by Commodity Exchange Administration; &lt;Aug. 1946&gt;- by Commodity Exchange Authority.</subfield>
+          </datafield>
+          <datafield ind1="0" ind2=" " tag="588">
+            <subfield code="a">Vol. 7, no. 1 (Aug. 1949); title from cover.</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="588">
+            <subfield code="a">Vol. 18, no. 11 (June 1961).</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="591">
+            <subfield code="b">NAL Reclamation</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="593">
+            <subfield code="f">Agricola CAT</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="0" tag="650">
+            <subfield code="a">Cotton trade</subfield>
+            <subfield code="z">United States</subfield>
+            <subfield code="v">Statistics</subfield>
+            <subfield code="v">Periodicals.</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="651">
+            <subfield code="a">United States.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01204155</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="3" tag="655">
+            <subfield code="a">Internet resource.</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Periodicals.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01411641</subfield>
+          </datafield>
+          <datafield ind1=" " ind2="7" tag="655">
+            <subfield code="a">Statistics.</subfield>
+            <subfield code="2">fast</subfield>
+            <subfield code="0">(OCoLC)fst01423727</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="710">
+            <subfield code="a">United States.</subfield>
+            <subfield code="b">Commodity Exchange Administration.</subfield>
+            <subfield code="0">http://id.loc.gov/authorities/names/n79114134</subfield>
+          </datafield>
+          <datafield ind1="1" ind2=" " tag="710">
+            <subfield code="a">United States.</subfield>
+            <subfield code="b">Commodity Exchange Authority.</subfield>
+            <subfield code="0">http://id.loc.gov/authorities/names/n79114131</subfield>
+          </datafield>
+          <datafield ind1="0" ind2="8" tag="776">
+            <subfield code="i">Online version:</subfield>
+            <subfield code="t">Trade in cotton futures</subfield>
+            <subfield code="w">(OCoLC)691079712</subfield>
+          </datafield>
+          <datafield ind1="4" ind2="1" tag="856">
+            <subfield code="u">https://archive.org/details/usda-tradecottonfutures</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="912">
+            <subfield code="a">nalcatalog</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="930">
+            <subfield code="a">20140207</subfield>
+            <subfield code="b">00000000</subfield>
+            <subfield code="c">00000000</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="946">
+            <subfield code="a">USDA</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="994">
+            <subfield code="a">92</subfield>
+            <subfield code="b">AGL</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="AVA">
+            <subfield code="0">9915537112607426</subfield>
+            <subfield code="8">22183342530007426</subfield>
+            <subfield code="a">01NAL_INST</subfield>
+            <subfield code="b">NAL</subfield>
+            <subfield code="c">Stacks</subfield>
+            <subfield code="d">1.945 T67</subfield>
+            <subfield code="e">check_holdings</subfield>
+            <subfield code="j">stacks</subfield>
+            <subfield code="k">dnal</subfield>
+            <subfield code="p">1</subfield>
+            <subfield code="q">National Agricultural Library</subfield>
+          </datafield>
+          <datafield ind1=" " ind2=" " tag="AVE">
+            <subfield code="8">53203864070007426</subfield>
+            <subfield code="e">Available</subfield>
+            <subfield code="l">NAL</subfield>
+            <subfield code="a">01NAL_INST</subfield>
+            <subfield code="0">9915537112607426</subfield>
+          </datafield>
+        </record>
+      </recordData>
+      <recordIdentifier>9915537112607426</recordIdentifier>
+      <recordPosition>1</recordPosition>
+    </record>
+  </records>
+  <extraResponseData xmlns:xb="http://www.exlibris.com/repository/search/xmlbeans/">
+    <xb:exact>true</xb:exact>
+    <xb:responseDate>2024-11-19T08:29:13-0500</xb:responseDate>
+  </extraResponseData>
+</searchRetrieveResponse>

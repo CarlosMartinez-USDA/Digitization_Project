@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="utf-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim"
+             xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+             xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <marc:leader>03352cas a2200709 a 4500</marc:leader>
+   <marc:controlfield tag="001">9915486637607426</marc:controlfield>
+   <marc:controlfield tag="005">20240624192335.0</marc:controlfield>
+   <marc:controlfield tag="008">000919d19391963pr fr p      f0    0eng^^</marc:controlfield>
+   <marc:datafield ind1=" " ind2=" " tag="010">
+      <marc:subfield code="a">s  40000008</marc:subfield>
+      <marc:subfield code="z">54000008</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1="7" ind2=" " tag="016">
+      <marc:subfield code="a">CAT11081185</marc:subfield>
+      <marc:subfield code="2">DNAL</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="019">
+      <marc:subfield code="a">225539802</marc:subfield>
+      <marc:subfield code="a">1029968984</marc:subfield>
+      <marc:subfield code="a">1035218894</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="035">
+      <marc:subfield code="a">854342</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="035">
+      <marc:subfield code="a">(OCoLC)01553363</marc:subfield>
+      <marc:subfield code="z">(OCoLC)225539802</marc:subfield>
+      <marc:subfield code="z">(OCoLC)1029968984</marc:subfield>
+      <marc:subfield code="z">(OCoLC)1035218894</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="035">
+      <marc:subfield code="a">(DNAL)854342-naldb-Voyager</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="035">
+      <marc:subfield code="z">(OCoLC)225539802</marc:subfield>
+      <marc:subfield code="z">(OCoLC)1029968984</marc:subfield>
+      <marc:subfield code="z">(OCoLC)1035218894</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="040">
+      <marc:subfield code="a">MUL</marc:subfield>
+      <marc:subfield code="b">eng</marc:subfield>
+      <marc:subfield code="c">MUL</marc:subfield>
+      <marc:subfield code="d">OCL</marc:subfield>
+      <marc:subfield code="d">CLE</marc:subfield>
+      <marc:subfield code="d">VXG</marc:subfield>
+      <marc:subfield code="d">OCL</marc:subfield>
+      <marc:subfield code="d">OCLCQ</marc:subfield>
+      <marc:subfield code="d">AU@</marc:subfield>
+      <marc:subfield code="d">UBC</marc:subfield>
+      <marc:subfield code="d">AGL</marc:subfield>
+      <marc:subfield code="d">DLC</marc:subfield>
+      <marc:subfield code="d">OCLCA</marc:subfield>
+      <marc:subfield code="d">OCLCQ</marc:subfield>
+      <marc:subfield code="d">OCLCA</marc:subfield>
+      <marc:subfield code="d">OCLCF</marc:subfield>
+      <marc:subfield code="d">OCLCO</marc:subfield>
+      <marc:subfield code="d">PAU</marc:subfield>
+      <marc:subfield code="d">OCLCQ</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1="0" ind2=" " tag="041">
+      <marc:subfield code="a">eng</marc:subfield>
+      <marc:subfield code="b">spa</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="042">
+      <marc:subfield code="a">pcc</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="043">
+      <marc:subfield code="a">cc-----</marc:subfield>
+      <marc:subfield code="a">w------</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="049">
+      <marc:subfield code="a">AGLL</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1="0" ind2="0" tag="050">
+      <marc:subfield code="a">SD1</marc:subfield>
+      <marc:subfield code="b">.C25</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1="0" ind2=" " tag="070">
+      <marc:subfield code="a">1.9622</marc:subfield>
+      <marc:subfield code="b">T2C23</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2="0" tag="072">
+      <marc:subfield code="a">K100</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1="0" ind2="4" tag="245">
+      <marc:subfield code="a">The Caribbean forester.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="260">
+      <marc:subfield code="a">Rio Piedras, P.R. :</marc:subfield>
+      <marc:subfield code="b">Tropical Forest Experiment Station, United States Forest Service,</marc:subfield>
+      <marc:subfield code="c">[1939]-1963.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="300">
+      <marc:subfield code="a">24 volumes :</marc:subfield>
+      <marc:subfield code="b">illustrations ;</marc:subfield>
+      <marc:subfield code="c">28 cm</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="310">
+      <marc:subfield code="a">Semiannual,</marc:subfield>
+      <marc:subfield code="b">1954-1963</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="321">
+      <marc:subfield code="a">Quarterly,</marc:subfield>
+      <marc:subfield code="b">1939-1953</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="336">
+      <marc:subfield code="a">text</marc:subfield>
+      <marc:subfield code="b">txt</marc:subfield>
+      <marc:subfield code="2">rdacontent</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="337">
+      <marc:subfield code="a">unmediated</marc:subfield>
+      <marc:subfield code="b">n</marc:subfield>
+      <marc:subfield code="2">rdamedia</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="338">
+      <marc:subfield code="a">volume</marc:subfield>
+      <marc:subfield code="b">nc</marc:subfield>
+      <marc:subfield code="2">rdacarrier</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1="0" ind2=" " tag="362">
+      <marc:subfield code="a">Vol. 1, no. 1 (Oct. 1939)-v. 24, no. 2 (1963).</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="525">
+      <marc:subfield code="a">Some issues accompanied by unnumbered supplements.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="546">
+      <marc:subfield code="a">English with abstracts in Spanish.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="550">
+      <marc:subfield code="a">Issued by: Tropical Forest Experiment Station, 1939-1956; Tropical Forest Research Center, 1957-1960; Institute of Tropical Forestry, 1961-1963.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="550">
+      <marc:subfield code="a">Edited by Southern Forest Experiment Station, New Orleans, La, Oct. 1939-July 1941.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="555">
+      <marc:subfield code="a">V. 1-10, 1939-1949. 1 v.; v. 11-20, 1949-1959, in v. 20, nos. 3-4; v. 1-24, 1939-1963, in v. 24, no. 2.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="580">
+      <marc:subfield code="a">Superseded by its Forest Service research paper ITF and its U.S. Forest Service research note ITF.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="591">
+      <marc:subfield code="b">NAL Reclamation</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="593">
+      <marc:subfield code="f">Agricola CAT</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2="0" tag="650">
+      <marc:subfield code="a">Forests and forestry</marc:subfield>
+      <marc:subfield code="z">Caribbean Area</marc:subfield>
+      <marc:subfield code="v">Periodicals.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2="0" tag="650">
+      <marc:subfield code="a">Forests and forestry</marc:subfield>
+      <marc:subfield code="z">Tropics</marc:subfield>
+      <marc:subfield code="v">Periodicals.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2="7" tag="651">
+      <marc:subfield code="a">Caribbean Area.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01244080</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2="7" tag="651">
+      <marc:subfield code="a">Tropics.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01240674</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2="3" tag="655">
+      <marc:subfield code="a">Internet resource.</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2="7" tag="655">
+      <marc:subfield code="a">Periodicals.</marc:subfield>
+      <marc:subfield code="2">fast</marc:subfield>
+      <marc:subfield code="0">(OCoLC)fst01411641</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1="2" ind2=" " tag="710">
+      <marc:subfield code="a">Tropical Forest Experiment Station (Río Piedras, San Juan, P.R.)</marc:subfield>
+      <marc:subfield code="0">http://id.loc.gov/authorities/names/no2010063384</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1="2" ind2=" " tag="710">
+      <marc:subfield code="a">Tropical Forest Research Center (Río Piedras, San Juan, P.R.)</marc:subfield>
+      <marc:subfield code="0">http://id.loc.gov/authorities/names/no2010063385</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1="2" ind2=" " tag="710">
+      <marc:subfield code="a">Institute of Tropical Forestry (Río Piedras, San Juan, P.R.)</marc:subfield>
+      <marc:subfield code="0">http://id.loc.gov/authorities/names/n50064401</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1="2" ind2=" " tag="710">
+      <marc:subfield code="a">Southern Forest Experiment Station (New Orleans, La.)</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1="0" ind2="8" tag="776">
+      <marc:subfield code="i">Online version:</marc:subfield>
+      <marc:subfield code="t">Caribbean forester</marc:subfield>
+      <marc:subfield code="w">(OCoLC)633310317</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1="0" ind2="0" tag="785">
+      <marc:subfield code="a">Institute of Tropical Forestry (Río Piedras, San Juan, P.R.).</marc:subfield>
+      <marc:subfield code="t">Forest Service research paper ITF</marc:subfield>
+      <marc:subfield code="x">0565-6338</marc:subfield>
+      <marc:subfield code="w">(OCoLC)2671049</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1="0" ind2="0" tag="785">
+      <marc:subfield code="t">U.S. Forest Service research note ITF</marc:subfield>
+      <marc:subfield code="x">0565-6346</marc:subfield>
+      <marc:subfield code="w">(DLC)agr66000014</marc:subfield>
+      <marc:subfield code="w">(OCoLC)2749353</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="850">
+      <marc:subfield code="a">DLC</marc:subfield>
+      <marc:subfield code="a">DNAL</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1="4" ind2="1" tag="856">
+      <marc:subfield code="u">https://archive.org/details/usda-caribbeanforester</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="912">
+      <marc:subfield code="a">nalcatalog</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="930">
+      <marc:subfield code="a">20140812</marc:subfield>
+      <marc:subfield code="b">20140905</marc:subfield>
+      <marc:subfield code="c">00000000</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="939">
+      <marc:subfield code="a">20100413</marc:subfield>
+      <marc:subfield code="b">20100501</marc:subfield>
+      <marc:subfield code="c">00000000</marc:subfield>
+   </marc:datafield>
+   <marc:datafield tag="945" ind1=" " ind2=" ">
+      <marc:subfield code="a">SRC2009</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="946">
+      <marc:subfield code="a">USDA</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="958">
+      <marc:subfield code="b">e</marc:subfield>
+      <marc:subfield code="c">2010-04-12</marc:subfield>
+      <marc:subfield code="d">o</marc:subfield>
+      <marc:subfield code="e">dgoldber</marc:subfield>
+      <marc:subfield code="h">recon</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="994">
+      <marc:subfield code="a">92</marc:subfield>
+      <marc:subfield code="b">AGL</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="AVA">
+      <marc:subfield code="0">9915486637607426</marc:subfield>
+      <marc:subfield code="8">22169396570007426</marc:subfield>
+      <marc:subfield code="a">01NAL_INST</marc:subfield>
+      <marc:subfield code="b">NAL</marc:subfield>
+      <marc:subfield code="c">Audiovisuals</marc:subfield>
+      <marc:subfield code="d">1.9622 T2C23</marc:subfield>
+      <marc:subfield code="e">available</marc:subfield>
+      <marc:subfield code="f">1</marc:subfield>
+      <marc:subfield code="g">0</marc:subfield>
+      <marc:subfield code="j">audiovis</marc:subfield>
+      <marc:subfield code="k">dnal</marc:subfield>
+      <marc:subfield code="p">1</marc:subfield>
+      <marc:subfield code="q">National Agricultural Library</marc:subfield>
+      <marc:subfield code="t">1939-1963 on cd-rom</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="AVA">
+      <marc:subfield code="0">9915486637607426</marc:subfield>
+      <marc:subfield code="8">22169396540007426</marc:subfield>
+      <marc:subfield code="a">01NAL_INST</marc:subfield>
+      <marc:subfield code="b">NAL</marc:subfield>
+      <marc:subfield code="c">Stacks</marc:subfield>
+      <marc:subfield code="d">1.9622 T2C23</marc:subfield>
+      <marc:subfield code="e">check_holdings</marc:subfield>
+      <marc:subfield code="j">stacks</marc:subfield>
+      <marc:subfield code="k">dnal</marc:subfield>
+      <marc:subfield code="p">2</marc:subfield>
+      <marc:subfield code="q">National Agricultural Library</marc:subfield>
+      <marc:subfield code="t">v. 1, no. 1 (Oct. 1939)-v. 24, no. 2 (1963)</marc:subfield>
+   </marc:datafield>
+   <marc:datafield ind1=" " ind2=" " tag="AVE">
+      <marc:subfield code="8">53198840740007426</marc:subfield>
+      <marc:subfield code="e">Available</marc:subfield>
+      <marc:subfield code="l">NAL</marc:subfield>
+      <marc:subfield code="a">01NAL_INST</marc:subfield>
+      <marc:subfield code="0">9915486637607426</marc:subfield>
+   </marc:datafield>
+</marc:record>

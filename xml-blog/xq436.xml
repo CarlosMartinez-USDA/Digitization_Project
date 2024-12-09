@@ -1,0 +1,46 @@
+<winelist>
+
+  <wine grape="Chardonnay">
+    <winery>Lindeman's</winery>
+    <product>Bin 65</product>
+    <year>1998</year>
+    <prices>
+      <list>6.99</list>
+      <discounted>5.99</discounted>
+      <case>71.50</case>
+    </prices>
+  </wine>
+
+<wine grape="Chardonnay">
+  <winery>Benziger</winery>
+  <product>Carneros</product>
+  <year>1997</year>
+  <prices>
+    <list>10.99</list>
+    <discounted>9.50</discounted>
+    <case>114.00</case>
+  </prices>
+</wine>
+
+  <wine grape="Cabernet">
+    <winery>Duckpond</winery>
+    <product>Merit Selection</product>
+    <year>1996</year>
+    <prices>
+      <list>13.99</list>
+      <discounted>11.99</discounted>
+      <case>143.50</case>
+    </prices>
+  </wine>
+
+  <wine grape="Chardonnay">
+    <winery>Kendall Jackson</winery>
+    <product>Vintner's Reserve</product>
+    <year>1998</year>
+    <prices>
+      <list>12.50</list>
+      <discounted>9.99</discounted>
+      <case>115.00</case>
+    </prices>
+  </wine>
+</winelist>

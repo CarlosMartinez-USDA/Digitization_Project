@@ -1,0 +1,3 @@
+
+    <xsl:template match="marc:subfield[not(contains(@code, concat('Digimet', 'pt.')))]| marc:subfield[not(matches(@code['p'], '/d+'))]" mode="group">
+   

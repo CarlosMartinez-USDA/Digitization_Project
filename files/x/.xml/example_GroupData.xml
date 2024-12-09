@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Groups>
+<GroupData ID="xxx" Key="4" Temp="yyy">
+    <ItemData ID="zzz" Value="3"/>
+</GroupData>
+
+<GroupData ID="xxx" Key="4" Temp="yyy">
+    <ItemData ID="www" Value="1982"/>
+</GroupData>
+</Groups>
+<!--I want to have the childs of these multiple GroupData nodes within the same group, i.e.,-->
+<!--
+<GroupData ID="xxx" Key="4" Temp="yyy">
+    <ItemData ID="zzz" Value="3"/>
+    <ItemData ID="www" Value="1982"/>
+</GroupData>-->

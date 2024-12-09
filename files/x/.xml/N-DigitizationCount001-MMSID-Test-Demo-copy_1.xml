@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="utf-8"?>
+<marc:collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                 xmlns:f="http://functions"
+                 xmlns:xs="http://www.w3.org/2001/XMLSchema"
+                 xmlns:local="http://www.loc.org/namespace"
+                 xmlns:marc="http://www.loc.gov/MARC21/slim"
+                 xsi:schemaLocation="http://www.loc.gov/MARC21/slim http://www.loc.gov/standards/marcxml/schema/MARC21slim.xsd">
+   <marc:record>
+      <marc:leader>03817nam a2201501   4500</marc:leader>
+      <marc:controlfield tag="001">9915446951707426</marc:controlfield>
+      <marc:controlfield tag="005">20240624183252.0</marc:controlfield>
+      <marc:controlfield tag="008">001031d19171942wiumr p      f0    0eng d</marc:controlfield>
+      <marc:datafield tag="016" ind1="7" ind2=" ">
+         <marc:subfield code="a">CAT11087129</marc:subfield>
+         <marc:subfield code="2">DNAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">858167</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(OCoLC)467375441</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(DNAL)858167-naldb-Voyager</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">MIN</marc:subfield>
+         <marc:subfield code="b">eng</marc:subfield>
+         <marc:subfield code="c">MIN</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+         <marc:subfield code="d">OCLCF</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+         <marc:subfield code="d">OCLCQ</marc:subfield>
+         <marc:subfield code="d">AGM</marc:subfield>
+         <marc:subfield code="d">OCLCO</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="043" ind1=" " ind2=" ">
+         <marc:subfield code="a">n-us---</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGLL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="070" ind1="0" ind2=" ">
+         <marc:subfield code="a">1.9</marc:subfield>
+         <marc:subfield code="b">F76W</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="0" ind2="0">
+         <marc:subfield code="a">Service bulletin /</marc:subfield>
+         <marc:subfield code="c">Forest Service, U.S. Dept. of Agriculture.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="246" ind1="1" ind2=" ">
+         <marc:subfield code="i">Nov. 15, 1917-Dec. 27, 1920 have title:</marc:subfield>
+         <marc:subfield code="a">Weekly bulletin</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="246" ind1="1" ind2=" ">
+         <marc:subfield code="i">Title varies, v. 25, no. 16- Aug. 1941-:</marc:subfield>
+         <marc:subfield code="a">Forest service bulletin</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="260" ind1=" " ind2=" ">
+         <marc:subfield code="a">Washington, D.C. :</marc:subfield>
+         <marc:subfield code="b">Forest Service, U.S. Dept. of Agriculture,</marc:subfield>
+         <marc:subfield code="c">-1942.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="300" ind1=" " ind2=" ">
+         <marc:subfield code="a">volumes ;</marc:subfield>
+         <marc:subfield code="c">27 cm</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="310" ind1=" " ind2=" ">
+         <marc:subfield code="a">Monthly,</marc:subfield>
+         <marc:subfield code="b">1942</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="336" ind1=" " ind2=" ">
+         <marc:subfield code="a">text</marc:subfield>
+         <marc:subfield code="b">txt</marc:subfield>
+         <marc:subfield code="2">rdacontent</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="337" ind1=" " ind2=" ">
+         <marc:subfield code="a">unmediated</marc:subfield>
+         <marc:subfield code="b">n</marc:subfield>
+         <marc:subfield code="2">rdamedia</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="338" ind1=" " ind2=" ">
+         <marc:subfield code="a">volume</marc:subfield>
+         <marc:subfield code="b">nc</marc:subfield>
+         <marc:subfield code="2">rdacarrier</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="362" ind1="0" ind2=" ">
+         <marc:subfield code="a">No. 1 (Nov. 15, 1917)-v. 26, no. 4 (Apr. 1942).</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="588" ind1="0" ind2=" ">
+         <marc:subfield code="a">Vol. 17, no. 3 (June 19, 1933); title from caption.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="591" ind1=" " ind2=" ">
+         <marc:subfield code="b">NAL Reclamation</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="593" ind1=" " ind2=" ">
+         <marc:subfield code="f">Agricola CAT</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="610" ind1="1" ind2="0">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="b">Forest Service</marc:subfield>
+         <marc:subfield code="v">Periodicals.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="610" ind1="1" ind2="7">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="b">Forest Service</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst00532793</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Forests and forestry</marc:subfield>
+         <marc:subfield code="z">United States</marc:subfield>
+         <marc:subfield code="v">Periodicals.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Forest policy</marc:subfield>
+         <marc:subfield code="z">United States</marc:subfield>
+         <marc:subfield code="v">Periodicals.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Forest management</marc:subfield>
+         <marc:subfield code="z">United States</marc:subfield>
+         <marc:subfield code="v">Periodicals.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="3">
+         <marc:subfield code="a">forest management.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="3">
+         <marc:subfield code="a">United States.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="651" ind1=" " ind2="7">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01204155</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="3">
+         <marc:subfield code="a">Internet resource.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="655" ind1=" " ind2="7">
+         <marc:subfield code="a">Periodicals.</marc:subfield>
+         <marc:subfield code="2">fast</marc:subfield>
+         <marc:subfield code="0">(OCoLC)fst01411641</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="710" ind1="1" ind2=" ">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="b">Forest Service.</marc:subfield>
+         <marc:subfield code="0">http://id.loc.gov/authorities/names/n79054932</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="856" ind1="4" ind2="1">
+         <marc:subfield code="u">https://archive.org/details/usda-usforestservicebulletin</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="912" ind1=" " ind2=" ">
+         <marc:subfield code="a">nalcatalog</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="930" ind1=" " ind2=" ">
+         <marc:subfield code="a">20170209</marc:subfield>
+         <marc:subfield code="b">20170301</marc:subfield>
+         <marc:subfield code="c">00000000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="939" ind1=" " ind2=" ">
+         <marc:subfield code="a">20140501</marc:subfield>
+         <marc:subfield code="b">20140502</marc:subfield>
+         <marc:subfield code="c">00000000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="945" ind1=" " ind2=" ">
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">88</marc:subfield>
+         <marc:subfield code="">pt.1</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">630</marc:subfield>
+         <marc:subfield code="">pt.2</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 3</marc:subfield>
+         <marc:subfield code="">524</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 4</marc:subfield>
+         <marc:subfield code="">726</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 5</marc:subfield>
+         <marc:subfield code="">552</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 6</marc:subfield>
+         <marc:subfield code="">398</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 7</marc:subfield>
+         <marc:subfield code="">422</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 8</marc:subfield>
+         <marc:subfield code="">458</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 9</marc:subfield>
+         <marc:subfield code="">516</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 10</marc:subfield>
+         <marc:subfield code="">514</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 11</marc:subfield>
+         <marc:subfield code="">420</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 12</marc:subfield>
+         <marc:subfield code="">436</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 13</marc:subfield>
+         <marc:subfield code="">402</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 14</marc:subfield>
+         <marc:subfield code="">446</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 15</marc:subfield>
+         <marc:subfield code="">456</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 16</marc:subfield>
+         <marc:subfield code="">348</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 17</marc:subfield>
+         <marc:subfield code="">224</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 18</marc:subfield>
+         <marc:subfield code="">222</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 19</marc:subfield>
+         <marc:subfield code="">222</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 20</marc:subfield>
+         <marc:subfield code="">224</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 21</marc:subfield>
+         <marc:subfield code="">202</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 22</marc:subfield>
+         <marc:subfield code="">240</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 23</marc:subfield>
+         <marc:subfield code="">276</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 24</marc:subfield>
+         <marc:subfield code="">322</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 25</marc:subfield>
+         <marc:subfield code="">296</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 26</marc:subfield>
+         <marc:subfield code="">96</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 27</marc:subfield>
+         <marc:subfield code="">78</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 1</marc:subfield>
+         <marc:subfield code="">34</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="946" ind1=" " ind2=" ">
+         <marc:subfield code="a">USDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="959" ind1=" " ind2=" ">
+         <marc:subfield code="c">2014-05-01</marc:subfield>
+         <marc:subfield code="e">rgallett</marc:subfield>
+         <marc:subfield code="g">upgrade</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="994" ind1=" " ind2=" ">
+         <marc:subfield code="a">92</marc:subfield>
+         <marc:subfield code="b">AGL</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+   <marc:record>
+      <marc:leader>00939cas a22003252  4500</marc:leader>
+      <marc:controlfield tag="001">9915446979007426</marc:controlfield>
+      <marc:controlfield tag="005">20240624183258.0</marc:controlfield>
+      <marc:controlfield tag="008">001031d19uu19uuxxuuu        f0    1eng d</marc:controlfield>
+      <marc:datafield tag="016" ind1="7" ind2=" ">
+         <marc:subfield code="a">CAT11087127</marc:subfield>
+         <marc:subfield code="2">DNAL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="9">1087-12760</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">858165</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="035" ind1=" " ind2=" ">
+         <marc:subfield code="a">(DNAL)858165-naldb-Voyager</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="040" ind1=" " ind2=" ">
+         <marc:subfield code="a">AGL</marc:subfield>
+         <marc:subfield code="d">AGL</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="049" ind1=" " ind2=" ">
+         <marc:subfield code="a">RQIC</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="070" ind1="0" ind2=" ">
+         <marc:subfield code="a">1</marc:subfield>
+         <marc:subfield code="b">P96S</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="110" ind1="1" ind2=" ">
+         <marc:subfield code="a">United States.</marc:subfield>
+         <marc:subfield code="b">Department of Agriculture.</marc:subfield>
+         <marc:subfield code="b">Division of Publications.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="245" ind1="1" ind2="0">
+         <marc:subfield code="a">Service and regulatory announcements.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="362" ind1="1" ind2=" ">
+         <marc:subfield code="a">Ceased.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="500" ind1=" " ind2=" ">
+         <marc:subfield code="a">NAL holdings: 1914-</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="593" ind1=" " ind2=" ">
+         <marc:subfield code="f">Agricola CAT</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="650" ind1=" " ind2="0">
+         <marc:subfield code="a">Agriculture</marc:subfield>
+         <marc:subfield code="z">United States</marc:subfield>
+         <marc:subfield code="v">Periodicals.</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="856" ind1="4" ind2="1">
+         <marc:subfield code="u">https://archive.org/details/usda-serviceregulatoryannouncements</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="912" ind1=" " ind2=" ">
+         <marc:subfield code="a">nalcatalog</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="930" ind1=" " ind2=" ">
+         <marc:subfield code="a">20140522</marc:subfield>
+         <marc:subfield code="b">20140606</marc:subfield>
+         <marc:subfield code="c">00000000</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="945" ind1=" " ind2=" ">
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">88</marc:subfield>
+         <marc:subfield code="">pt.1</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">630</marc:subfield>
+         <marc:subfield code="">pt.2</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 3</marc:subfield>
+         <marc:subfield code="">524</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 4</marc:subfield>
+         <marc:subfield code="">726</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 5</marc:subfield>
+         <marc:subfield code="">552</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 6</marc:subfield>
+         <marc:subfield code="">398</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 7</marc:subfield>
+         <marc:subfield code="">422</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 8</marc:subfield>
+         <marc:subfield code="">458</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 9</marc:subfield>
+         <marc:subfield code="">516</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 10</marc:subfield>
+         <marc:subfield code="">514</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 11</marc:subfield>
+         <marc:subfield code="">420</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 12</marc:subfield>
+         <marc:subfield code="">436</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 13</marc:subfield>
+         <marc:subfield code="">402</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 14</marc:subfield>
+         <marc:subfield code="">446</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 15</marc:subfield>
+         <marc:subfield code="">456</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 16</marc:subfield>
+         <marc:subfield code="">348</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 17</marc:subfield>
+         <marc:subfield code="">224</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 18</marc:subfield>
+         <marc:subfield code="">222</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 19</marc:subfield>
+         <marc:subfield code="">222</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 20</marc:subfield>
+         <marc:subfield code="">224</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 21</marc:subfield>
+         <marc:subfield code="">202</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 22</marc:subfield>
+         <marc:subfield code="">240</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 23</marc:subfield>
+         <marc:subfield code="">276</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 24</marc:subfield>
+         <marc:subfield code="">322</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 25</marc:subfield>
+         <marc:subfield code="">296</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 26</marc:subfield>
+         <marc:subfield code="">96</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 27</marc:subfield>
+         <marc:subfield code="">78</marc:subfield>
+         <marc:subfield code="">DigiMet</marc:subfield>
+         <marc:subfield code="">pt. 1</marc:subfield>
+         <marc:subfield code="">34</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="946" ind1=" " ind2=" ">
+         <marc:subfield code="a">USDA</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="959" ind1=" " ind2=" ">
+         <marc:subfield code="c">2014-10-03</marc:subfield>
+         <marc:subfield code="e">ssouder</marc:subfield>
+         <marc:subfield code="g">url</marc:subfield>
+      </marc:datafield>
+      <marc:datafield tag="959" ind1=" " ind2=" ">
+         <marc:subfield code="c">2013-04-02</marc:subfield>
+         <marc:subfield code="e">ssouder</marc:subfield>
+         <marc:subfield code="g">ap</marc:subfield>
+      </marc:datafield>
+   </marc:record>
+</marc:collection>

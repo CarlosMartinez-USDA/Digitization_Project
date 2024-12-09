@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<marc:collection xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <marc:record>
+<!--        
+<xml>
+    <tables>
+        <t>1</t>
+        <t>2</t>
+        <t>3</t>
+        <t>4</t>
+        <t>5</t>
+        <t>6</t>
+    </tables>
+</xml>
+-->  
+<marc:datafield tag="945" ind1=" " ind2=" ">
+    <marc:subfield code="d">DF</marc:subfield>
+    <marc:subfield code="e">2003/09/03</marc:subfield>
+    <marc:subfield code="f">RY</marc:subfield>
+    <marc:subfield code="g">2003/09/11</marc:subfield>
+    <marc:subfield code="n">1</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="945" ind1=" " ind2=" ">
+    <marc:subfield code="p">20</marc:subfield>
+</marc:datafield>
+<marc:datafield tag="945" ind1=" " ind2=" ">
+    <marc:subfield code="a">DigiMet</marc:subfield>
+</marc:datafield>
+    </marc:record>
+</marc:collection>

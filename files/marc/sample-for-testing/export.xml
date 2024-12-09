@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<traceList>
+  <trace entering="yes" line="1" name="#document" resource="file:/E:/Digitization/files/marc/sample-for-testing/working-copy-1.xml"/>
+  <trace attributes="(match=&quot;/&quot;)" entering="yes" line="6" name="template" resource="file:/E:/Digitization/Untitled5.xsl"/>
+  <trace attributes="(select=&quot;//marc:datafield[@tag='945']&quot;)" entering="yes" line="7" name="xsl:apply-templates" resource="file:/E:/Digitization/Untitled5.xsl"/>
+  <trace attributes="(tag=&quot;945&quot;) (ind1=&quot; &quot;) (ind2=&quot; &quot;)" entering="yes" line="127" name="marc:datafield"
+    resource="file:/E:/Digitization/files/marc/sample-for-testing/working-copy-1.xml"/>
+  <trace attributes="(match=&quot;marc:datafield[@tag='945']&quot;)" entering="yes" line="9" name="template" resource="file:/E:/Digitization/Untitled5.xsl"/>
+  <trace attributes="(select=&quot;key('subfield',text())&quot;)" entering="yes" line="10" name="xsl:apply-templates" resource="file:/E:/Digitization/Untitled5.xsl"/>
+  <trace attributes="(name=&quot;key&quot;)" entering="yes" line="10" name="function-call" resource="file:/E:/Digitization/Untitled5.xsl"/>
+  <trace attributes="(name=&quot;key&quot;)" entering="no" line="10" name="function-call" resource="file:/E:/Digitization/Untitled5.xsl"/>
+  <trace attributes="(select=&quot;key('subfield',text())&quot;)" entering="no" line="10" name="xsl:apply-templates" resource="file:/E:/Digitization/Untitled5.xsl"/>
+  <trace attributes="(match=&quot;marc:datafield[@tag='945']&quot;)" entering="no" line="9" name="template" resource="file:/E:/Digitization/Untitled5.xsl"/>
+  <trace attributes="(tag=&quot;945&quot;) (ind1=&quot; &quot;) (ind2=&quot; &quot;)" entering="no" line="127" name="marc:datafield"
+    resource="file:/E:/Digitization/files/marc/sample-for-testing/working-copy-1.xml"/>
+  <trace attributes="(tag=&quot;945&quot;) (ind1=&quot; &quot;) (ind2=&quot; &quot;)" entering="yes" line="134" name="marc:datafield"
+    resource="file:/E:/Digitization/files/marc/sample-for-testing/working-copy-1.xml"/>
+  <trace attributes="(match=&quot;marc:datafield[@tag='945']&quot;)" entering="yes" line="9" name="template" resource="file:/E:/Digitization/Untitled5.xsl"/>
+  <trace attributes="(select=&quot;key('subfield',text())&quot;)" entering="yes" line="10" name="xsl:apply-templates" resource="file:/E:/Digitization/Untitled5.xsl"/>
+</traceList>

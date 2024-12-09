@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AAA>
+    <BBB bb="1">
+        <CCC> c11 </CCC>
+        <CCC> c12 </CCC>
+        <CCC> c13 </CCC>
+    </BBB>
+    <BBB bb="2">
+        <CCC> c21 </CCC>
+        <CCC> c22 </CCC>
+        <CCC> c23 </CCC>
+    </BBB>
+    <BBB bb="3">
+        <CCC> c31 </CCC>
+        <CCC> c32 </CCC>
+        <CCC> c33 </CCC>
+    </BBB>
+</AAA>

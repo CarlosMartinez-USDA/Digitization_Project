@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marc:record xmlns:marc="http://www.loc.gov/MARC21/slim" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <marc:datafield tag="945" ind1=" " ind2=" ">
+        <marc:subfield code="a">Child 1 from Parent 1</marc:subfield>
+    </marc:datafield>
+    <marc:datafield tag="945" ind1=" " ind2=" ">
+       <marc:subfield code="v">Child 2 from Parent 2</marc:subfield>
+    </marc:datafield>
+   <marc:datafield tag="945" ind1=" " ind2=" ">
+       <marc:subfield code="p">Child 3 from Parent 3</marc:subfield>
+   </marc:datafield>
+</marc:record>

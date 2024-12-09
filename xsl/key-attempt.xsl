@@ -1,0 +1,19 @@
+<xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
+    xmlns:marc="http://www.loc.gov/MARC21/slim">
+    <xsl:output method="xml"/>
+    <xsl:key match="marc:subfield[@code]" name="subfield" use="parent::node()"/>
+     
+    <xsl:template match="/">
+        <xsl:apply-templates select="//marc:datafield[@tag='945']"/>
+    </xsl:template>
+    <xsl:template match="marc:datafield[@tag='945']">
+        <xsl:apply-templates select="key('subfield',text())"/>
+    </xsl:template>
+    <xsl:template match="marc:subfield[@code]">
+        <xsl:value-of select="."/>
+    </xsl:template>
+    
+    <xsl:template match="@*|node()">
+        <xsl:copy-of select="@*|node()"/>
+    </xsl:template>
+</xsl:stylesheet>
