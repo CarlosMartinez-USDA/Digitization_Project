@@ -1,13 +1,13 @@
-# Bibliographic Framework Initiative: Realized by a digitzation project.
+# Bibliographic Framework Initiative: Realized by a digitization project.
 
-Information resources are now within a arms reach has changed the way the world perceives information. The inception of hypertext transfer protocol and a web of infromation, once allowed infomation specialits to theorize and imagine a world of linked data.  
+Information resources are now within arm's reach, changing how the world perceives information. The inception of the hypertext transfer protocol and a web of information once allowed information specialists to theorize and imagine a world of linked data.  
 
 ## Concatenating subfields $a, $p and $v
 
-### MARC21 (shown here in  pneumonic view)
+### MARC21 (shown here in mnemonic view)
 
-An issue is displayed here by when the individual parts are separated incorrectly  displayed here when the "individual parts or "instances"  tabbed delimited file is merged with the original MARC record set.
-The individual parts or "instances"ecord describes is linked within it. 
+An issue is displayed here when the individual parts are separated incorrectly displayed here when the "individual parts or "instances"  tabbed delimited file is merged with the original MARC record set.
+The individual parts or "instances" the record describes are linked. 
 
 ```xml
        <marc:datafield tag="945" ind1=" " ind2=" ">
